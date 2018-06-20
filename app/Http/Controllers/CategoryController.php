@@ -17,6 +17,7 @@ class CategoryController extends Controller
                 'categories' => $category
             ]
             
+            
         );
     }
 }
